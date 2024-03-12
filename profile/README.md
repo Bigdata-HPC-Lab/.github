@@ -4,6 +4,11 @@
 * Link: [Website][https://hpcbigdata.seoultech.ac.kr/]
 * Feel free to contact me if you have any questions :)
 
+## Repos
+* General Documentation [https://github.com/Bigdata-HPC-Lab/Documentation]
+* HPC related documentation [https://github.com/Bigdata-HPC-Lab/HPC]
+
+
 ## Research Topics
 * General system profiling, problem detection, and optimization of system software
 * Big Data Processing
