@@ -1,4 +1,4 @@
-## Bigdata and HPC Lab @ Seoultech 
+# Bigdata and HPC Lab @ Seoultech 
 
 * Head: Prof. Sunggon Kim (sunggonkim@seoultech.ac.kr)
 * Link: [Website][https://hpcbigdata.seoultech.ac.kr/]
