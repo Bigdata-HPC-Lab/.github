@@ -1,8 +1,8 @@
 ## Bigdata and HPC Lab @ Seoultech 
 
-Head: Prof. Sunggon Kim (sunggonkim@seoultech.ac.kr)
-Link: [Website][https://hpcbigdata.seoultech.ac.kr/]
-Feel free to contact me if you have any questions :)
+* Head: Prof. Sunggon Kim (sunggonkim@seoultech.ac.kr)
+* Link: [Website][https://hpcbigdata.seoultech.ac.kr/]
+* Feel free to contact me if you have any questions :)
 
 ## Research Topics
 * General system profiling, problem detection, and optimization of system software
