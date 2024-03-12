@@ -1,7 +1,7 @@
-# Bigdata and HPC Lab @ Seoultech 
+# Bigdata and HPC Lab @ Seoultech, Department of Computer Science, Seoul, Korea
 
 * Head: Prof. Sunggon Kim (sunggonkim@seoultech.ac.kr)
-* Link: [Website][https://hpcbigdata.seoultech.ac.kr/]
+* Website: [https://hpcbigdata.seoultech.ac.kr/]
 * Feel free to contact me if you have any questions :)
 
 ## Repos
@@ -11,8 +11,8 @@
 
 ## Research Topics
 * General system profiling, problem detection, and optimization of system software
-* Big Data Processing
 * High-performance computing (HPC) and Data Centers
+* Big Data Processing
 * IoT and Edge device optimization
 * New storage devices and interfaces (ZNS SSD, CXL, SmartSSD)
 * Database system (Oracle, MySQL, MongoDB, PostgreSQL, RocksDB, LevelDB, WiredTiger)
