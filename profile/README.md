@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bigdata and HPC Lab @ Seoultech 
 
 <!--
 
@@ -11,5 +11,13 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Bigdata and HPC Lab @ Seoultech
 Link: [Website][https://hpcbigdata.seoultech.ac.kr/]
+
+## Research Topics
+General system profiling, problem detection, and optimization of system software
+Big Data Processing
+High-performance computing (HPC) and Data Centers
+IoT and Edge device optimization
+New storage devices and interfaces (ZNS SSD, CXL, SmartSSD)
+Database system (Oracle, MySQL, MongoDB, PostgreSQL, RocksDB, LevelDB, WiredTiger)
+Blockchain (Ethereum, Klayton, IPFS)
