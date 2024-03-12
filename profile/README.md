@@ -1,23 +1,19 @@
 ## Bigdata and HPC Lab @ Seoultech 
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
+Head: Prof. Sunggon Kim (sunggonkim@seoultech.ac.kr)
 Link: [Website][https://hpcbigdata.seoultech.ac.kr/]
+Feel free to contact me if you have any questions :)
 
 ## Research Topics
-General system profiling, problem detection, and optimization of system software
-Big Data Processing
-High-performance computing (HPC) and Data Centers
-IoT and Edge device optimization
-New storage devices and interfaces (ZNS SSD, CXL, SmartSSD)
-Database system (Oracle, MySQL, MongoDB, PostgreSQL, RocksDB, LevelDB, WiredTiger)
-Blockchain (Ethereum, Klayton, IPFS)
+* General system profiling, problem detection, and optimization of system software
+* Big Data Processing
+* High-performance computing (HPC) and Data Centers
+* IoT and Edge device optimization
+* New storage devices and interfaces (ZNS SSD, CXL, SmartSSD)
+* Database system (Oracle, MySQL, MongoDB, PostgreSQL, RocksDB, LevelDB, WiredTiger)
+* Blockchain (Ethereum, Klayton, IPFS)
+
+## Recent papers (2024)
+* CCgrid 24: EnC-IoT: An Efficient Encryption and Access Control Framework based on IPFS for Decentralized IoT
+* IPDPS 24: A2FL: Autonomous and Adaptive File Layout in HPC through Real-time Access Pattern Analysis
+* IoTJ: Empowering Cyberattack Identification in IoHT Networks with Neighborhood Component-based Improvised Long Short-Term Memory
