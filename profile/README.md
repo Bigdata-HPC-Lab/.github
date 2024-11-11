@@ -4,10 +4,15 @@
 * Website: [https://hpcbigdata.seoultech.ac.kr/]
 * Feel free to contact me if you have any questions :)
 
-## Repos
-* (General Documentation)[https://github.com/Bigdata-HPC-Lab/Documentation]
-* (HPC related documentation)[https://github.com/Bigdata-HPC-Lab/HPC]
-* (HPC log parsing and integration (Private))[https://github.com/Bigdata-HPC-Lab/HPC_LogParser/tree/main]
+## Repos (General)
+* [General Documentation](https://github.com/Bigdata-HPC-Lab/Documentation)
+* [HPC related documentation](https://github.com/Bigdata-HPC-Lab/HPC)
+* [HPC log parsing and integration (Private)](https://github.com/Bigdata-HPC-Lab/HPC_LogParser/tree/main)
+* [NvidiaJetson Installation (Private and Needs to be updated)](https://github.com/Bigdata-HPC-Lab/NVIDIA-Jetson-Orin-Nano)
+
+## Repos (Paper)
+* [A2FL (IPDPS 2024)](https://github.com/Bigdata-HPC-Lab/A2FL)
+* [Quantum Encrpytion (MobiSec2024)](https://github.com/Bigdata-HPC-Lab/mobisec24_Combined_PQC_and_QKD)
 
 ## Research Topics
 * General system profiling, problem detection, and optimization of system software
