@@ -5,9 +5,9 @@
 * Feel free to contact me if you have any questions :)
 
 ## Repos
-* General Documentation [https://github.com/Bigdata-HPC-Lab/Documentation]
-* HPC related documentation [https://github.com/Bigdata-HPC-Lab/HPC]
-
+* (General Documentation)[https://github.com/Bigdata-HPC-Lab/Documentation]
+* (HPC related documentation)[https://github.com/Bigdata-HPC-Lab/HPC]
+* (HPC log parsing and integration (Private))[https://github.com/Bigdata-HPC-Lab/HPC_LogParser/tree/main]
 
 ## Research Topics
 * General system profiling, problem detection, and optimization of system software
