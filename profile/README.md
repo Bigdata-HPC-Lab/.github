@@ -24,7 +24,7 @@
 * Database system (Oracle, MySQL, MongoDB, PostgreSQL, RocksDB, LevelDB, WiredTiger)
 * Blockchain (Ethereum, Klayton, IPFS)
 
-## Recent papers (2024)
+## Recent papers
 * **ATC 25** [Z-LFS: A Zoned Namespace-tailored Log-Structured File System for Commodity ZNS SSDs](https://www.usenix.org/conference/atc25/presentation/hwang)
 * **CCGrid 25** [SWIFTN: Accelerating Quantum Circuit Simulation Through Tensor Optimization.](https://ieeexplore.ieee.org/document/11044802)
 * **IPDPSW 25** [Toward Performance Prediction in Large-Scale Systems through Temporal System and Application Log Analysis](https://ieeexplore.ieee.org/document/11106044)
