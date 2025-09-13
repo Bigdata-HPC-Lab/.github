@@ -1,8 +1,8 @@
 # Bigdata and HPC Lab @ Seoultech, Department of Computer Science, Seoul, Korea
 
+## We are hiring! [https://hpcbigdata.seoultech.ac.kr/recruit]
 * Head: Prof. Sunggon Kim (sunggonkim@seoultech.ac.kr)
 * Website: [https://hpcbigdata.seoultech.ac.kr/]
-* Recruit: [https://hpcbigdata.seoultech.ac.kr/recruit]
 * Feel free to contact me if you have any questions :)
 
 ## Repos (General)
