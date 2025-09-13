@@ -24,10 +24,10 @@
 * Blockchain (Ethereum, Klayton, IPFS)
 
 ## Recent papers (2024)
-* ATC 25: [Z-LFS: A Zoned Namespace-tailored Log-Structured File System for Commodity ZNS SSDs](https://www.usenix.org/conference/atc25/presentation/hwang)
-* CCGrid 25: [SWIFTN: Accelerating Quantum Circuit Simulation Through Tensor Optimization.](https://ieeexplore.ieee.org/document/11044802)
-* IPDPSW 25:[Toward Performance Prediction in Large-Scale Systems through Temporal System and Application Log Analysis](https://ieeexplore.ieee.org/document/11106044)
-* FGCS: AS2: Adaptive Sorting Algorithm Selection for Heterogeneous Workloads and Systems
-* CCgrid 25: EnC-IoT: An Efficient Encryption and Access Control Framework based on IPFS for Decentralized IoT
-* IPDPS 24: A2FL: Autonomous and Adaptive File Layout in HPC through Real-time Access Pattern Analysis
-* IoTJ: Empowering Cyberattack Identification in IoHT Networks with Neighborhood Component-based Improvised Long Short-Term Memory
+* **ATC 25** [Z-LFS: A Zoned Namespace-tailored Log-Structured File System for Commodity ZNS SSDs](https://www.usenix.org/conference/atc25/presentation/hwang)
+* **CCGrid 25** [SWIFTN: Accelerating Quantum Circuit Simulation Through Tensor Optimization.](https://ieeexplore.ieee.org/document/11044802)
+* **IPDPSW 25**[Toward Performance Prediction in Large-Scale Systems through Temporal System and Application Log Analysis](https://ieeexplore.ieee.org/document/11106044)
+* **FGCS** AS2: Adaptive Sorting Algorithm Selection for Heterogeneous Workloads and Systems
+* **CCGrid 24** EnC-IoT: An Efficient Encryption and Access Control Framework based on IPFS for Decentralized IoT
+* **IPDPS 24** A2FL: Autonomous and Adaptive File Layout in HPC through Real-time Access Pattern Analysis
+* **IoTJ** Empowering Cyberattack Identification in IoHT Networks with Neighborhood Component-based Improvised Long Short-Term Memory
