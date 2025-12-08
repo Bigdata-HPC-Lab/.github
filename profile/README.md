@@ -6,6 +6,7 @@
 * Feel free to contact me if you have any questions :)
 
 ## Repos (Paper)
+* [Quantum Simulation (SIGMETRICS 2026)] 
 * [A2FL HPC I/O Autotuning (IPDPS 2024)](https://github.com/Bigdata-HPC-Lab/A2FL)
 * [Quantum Encrpytion (MobiSec2024)](https://github.com/Bigdata-HPC-Lab/mobisec24_Combined_PQC_and_QKD)
 * [Yolo Performance of Edge (IEEE ACCESS)](https://github.com/Bigdata-HPC-Lab/Optimize-YOLO-Edge-IEEE-ACCESS)
@@ -20,6 +21,7 @@
 * Blockchain (Ethereum, Klayton, IPFS)
 
 ## Recent papers
+* **SIGMETRICS 26** [ScaleQsim: Highly Scalable Quantum Circuit Simulation Framework for Exascale HPC Systems](https://dl.acm.org/doi/10.1145/3771577)
 * **ATC 25** [Z-LFS: A Zoned Namespace-tailored Log-Structured File System for Commodity ZNS SSDs](https://www.usenix.org/conference/atc25/presentation/hwang)
 * **CCGrid 25** [SWIFTN: Accelerating Quantum Circuit Simulation Through Tensor Optimization.](https://ieeexplore.ieee.org/document/11044802)
 * **IPDPSW 25** [Toward Performance Prediction in Large-Scale Systems through Temporal System and Application Log Analysis](https://ieeexplore.ieee.org/document/11106044)
