@@ -6,7 +6,7 @@
 * Feel free to contact me if you have any questions :)
 
 ## Repos (Paper)
-* [Quantum Simulation (SIGMETRICS 2026)](https://github.com/Bigdata-HPC-Lab/A2FL)
+* [Quantum Simulation (SIGMETRICS 2026)](https://github.com/Bigdata-HPC-Lab/ScaleQsim)
 * [A2FL HPC I/O Autotuning (IPDPS 2024)](https://github.com/Bigdata-HPC-Lab/A2FL)
 * [Quantum Encrpytion (MobiSec2024)](https://github.com/Bigdata-HPC-Lab/mobisec24_Combined_PQC_and_QKD)
 * [Yolo Performance of Edge (IEEE ACCESS)](https://github.com/Bigdata-HPC-Lab/Optimize-YOLO-Edge-IEEE-ACCESS)
